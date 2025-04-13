@@ -1,0 +1,1290 @@
+ .u-section-1 {
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0), #f3f5ee), url('images/Deforestation2.jpg');
+  background-position: 50% 50%, 50% 50%;
+  background-size: cover, cover;
+  background-repeat: no-repeat, no-repeat;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1080px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 8.4375rem;
+  margin: 777px 0 0 533px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 27px 0 0 310px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 239px;
+  height: 139px;
+  margin: -224px auto 60px 294px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 663px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 355px;
+    margin-left: 333px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 32px;
+    margin-left: 110px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -230px;
+    margin-bottom: 0;
+    margin-left: 110px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 984px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 7.375rem;
+    margin-top: 710px;
+    margin-left: 113px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 16px;
+    margin-left: 29px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 207px;
+    height: 121px;
+    margin-top: -196px;
+    margin-bottom: 60px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 543px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: 334px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+    margin-top: 35px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 115px;
+    height: 67px;
+    margin-top: -140px;
+    margin-left: 155px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 700px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 484px;
+    margin-left: 81px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 22px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 81px;
+    height: 47px;
+    margin-top: -135px;
+    margin-left: 0;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 521px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 60px 30px 0;
+}
+
+.u-section-2 .u-text-2 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1.5rem;
+  margin: 20px 99px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 384px;
+  }
+
+  .u-section-2 .u-text-1 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 364px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 93px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 21px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1.25rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 422px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 87px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 19px;
+  }
+}
+
+.u-block-fd1e-9:not([data-block-selected]):not([data-cell-selected]),
+.u-block-fd1e-9:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-fd1e-9:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-block-fd1e-19:not([data-block-selected]):not([data-cell-selected]),
+.u-block-fd1e-19:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-fd1e-19:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 1418px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 541px;
+  height: 455px;
+  --radius: 65px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 816px -85px 0 auto;
+}
+
+.u-section-3 .u-image-2 {
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
+  height: 839px;
+  width: 785px;
+  margin: -969px 136px 0 auto;
+}
+
+.u-section-3 .u-text-1 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1.875rem;
+  margin: -549px 321px 0 359px;
+}
+
+.u-section-3 .u-text-2 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 28px 331px 0 362px;
+}
+
+.u-section-3 .u-image-3 {
+  width: 605px;
+  height: 506px;
+  --radius: 65px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -825px auto 634px -83px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1277px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 439px;
+    height: 370px;
+    margin-top: 845px;
+    margin-right: -34px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-top: -913px;
+    margin-right: 45px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 221px;
+    margin-left: 259px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 231px;
+    margin-left: 262px;
+  }
+
+  .u-section-3 .u-image-3 {
+    width: 494px;
+    height: 413px;
+    margin-top: -745px;
+    margin-bottom: 60px;
+    margin-left: -24px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1376px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 434px;
+    height: 365px;
+    margin-top: 873px;
+    margin-right: -116px;
+  }
+
+  .u-section-3 .u-image-2 {
+    height: 830px;
+    width: 776px;
+    margin-top: -925px;
+    margin-left: -28px;
+    margin-right: -28px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: -551px;
+    margin-right: 147px;
+    margin-left: 113px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-right: 154px;
+    margin-left: 119px;
+  }
+
+  .u-section-3 .u-image-3 {
+    width: 485px;
+    height: 405px;
+    margin-top: -755px;
+    margin-left: -105px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1377px;
+  }
+
+  .u-section-3 .u-image-1 {
+    margin-top: 924px;
+    margin-right: -164px;
+  }
+
+  .u-section-3 .u-image-2 {
+    height: 778px;
+    width: 726px;
+    margin-top: -929px;
+    margin-left: -93px;
+    margin-right: -93px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -531px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 47px;
+    margin-right: 47px;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-top: -753px;
+    margin-left: -179px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1034px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 256px;
+    height: 215px;
+    margin-top: 730px;
+    margin-right: -108px;
+  }
+
+  .u-section-3 .u-image-2 {
+    height: 605px;
+    width: 564px;
+    margin-top: -713px;
+    margin-right: auto;
+    margin-left: -96px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.25rem;
+    margin-top: -457px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .u-section-3 .u-image-3 {
+    width: 345px;
+    height: 288px;
+    margin-top: -622px;
+    margin-left: -172px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 1212px;
+}
+
+.u-section-4 .u-text-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 61px 88px 0;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin: 83px auto 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 423px;
+  --radius: 65px;
+  background-image: url("images/Firefly_Penang_Infrastructure_Infrastructure_projects_on_Penang_Island_have_caused_significant_soil_.jpg");
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 423px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-2 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 2.25rem;
+  margin: 73px auto 0 0;
+}
+
+.u-section-4 .u-text-3 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 19px auto 0 0;
+}
+
+.u-section-4 .u-image-2 {
+  min-height: 423px;
+  --radius: 65px;
+  background-image: url("images/Firefly_Johor_Bahru_Industry_Industrial_expansion_in_Johor_Bahru_has_led_to_increased_levels_of_air_.jpg");
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-4 {
+  min-height: 423px;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-4 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 2.25rem;
+  margin: 73px auto 0 0;
+}
+
+.u-section-4 .u-text-5 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 19px auto 0 0;
+}
+
+.u-section-4 .u-image-3 {
+  min-height: 423px;
+  --radius: 65px;
+  background-image: url("images/Firefly_Kuala_Lumpur_Development_The_development_of_new_residential_areas_in_Kuala_Lumpur_has_result.jpg");
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-6 {
+  min-height: 423px;
+}
+
+.u-section-4 .u-container-layout-6 {
+  padding: 0;
+}
+
+.u-section-4 .u-text-6 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 2.25rem;
+  margin: 103px 30px 0;
+}
+
+.u-section-4 .u-text-7 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 19px 30px 0;
+}
+
+.u-section-4 .u-image-4 {
+  width: 134px;
+  height: 143px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 0 -31px -40px auto;
+}
+
+.u-section-4 .u-icon-1 {
+  width: 85px;
+  height: 91px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -881px auto 0 -42px;
+  padding: 0;
+}
+
+.u-section-4 .u-layout-wrap-2 {
+  margin: 0 auto 31px;
+}
+
+.u-section-4 .u-image-5 {
+  background-image: url("images/Firefly_Kuala_Lumpur_Development_The_development_of_new_residential_areas_in_Kuala_Lumpur_has_result.jpg");
+  background-position: 50% 50%;
+  --radius: 65px;
+  min-height: 471px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+}
+
+.u-section-4 .u-container-layout-7 {
+  padding: 0;
+}
+
+.u-section-4 .u-layout-cell-8 {
+  min-height: 471px;
+}
+
+.u-section-4 .u-container-layout-8 {
+  padding: 30px 10px;
+}
+
+.u-section-4 .u-text-8 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1.25rem;
+  width: auto;
+  margin: 0;
+}
+
+.u-section-4 .u-text-9 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  width: auto;
+  margin: 19px 0 0;
+}
+
+.u-section-4 .u-image-6 {
+  background-image: url("images/Firefly_Penang_Infrastructure_Infrastructure_projects_on_Penang_Island_have_caused_significant_soil_.jpg");
+  background-position: 50% 50%;
+  --radius: 65px;
+  min-height: 471px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+}
+
+.u-section-4 .u-container-layout-9 {
+  padding: 30px 10px;
+}
+
+.u-section-4 .u-layout-cell-10 {
+  min-height: 471px;
+}
+
+.u-section-4 .u-container-layout-10 {
+  padding: 30px 10px;
+}
+
+.u-section-4 .u-text-10 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1.25rem;
+  width: auto;
+  margin: 0;
+}
+
+.u-section-4 .u-text-11 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  width: auto;
+  margin: 19px 0 0;
+}
+
+.u-section-4 .u-image-7 {
+  background-image: url("images/Firefly_Johor_Bahru_Industry_Industrial_expansion_in_Johor_Bahru_has_led_to_increased_levels_of_air_.jpg");
+  min-height: 471px;
+  background-position: 50% 50%;
+  --radius: 65px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  background-size: cover;
+}
+
+.u-section-4 .u-container-layout-11 {
+  padding: 30px 10px;
+}
+
+.u-section-4 .u-layout-cell-12 {
+  min-height: 471px;
+}
+
+.u-section-4 .u-container-layout-12 {
+  padding: 0;
+}
+
+.u-section-4 .u-text-12 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  width: 180px;
+  font-size: 1.25rem;
+  margin: 38px auto 0;
+}
+
+.u-section-4 .u-text-13 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  width: 180px;
+  margin: 19px auto 0;
+}
+
+.u-section-4 .u-image-8 {
+  width: 134px;
+  height: 143px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 0 -49px -92px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1287px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 603px;
+    margin-top: 93px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 59px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-text-2 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-3 {
+    width: auto;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-layout-cell-4 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-text-4 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-5 {
+    width: auto;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-layout-cell-6 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-text-6 {
+    width: auto;
+    font-size: 1.5rem;
+    margin-top: 133px;
+  }
+
+  .u-section-4 .u-text-7 {
+    width: auto;
+  }
+
+  .u-section-4 .u-image-4 {
+    margin-right: -42px;
+    margin-bottom: -36px;
+  }
+
+  .u-section-4 .u-icon-1 {
+    margin-top: -937px;
+    margin-bottom: 60px;
+    margin-left: -27px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    margin-top: 59px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-5 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-layout-cell-8 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-text-8 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-4 .u-image-6 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-layout-cell-10 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-text-10 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-4 .u-image-7 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-layout-cell-12 {
+    min-height: 450px;
+  }
+
+  .u-section-4 .u-text-12 {
+    width: auto;
+    font-size: 1.5rem;
+    margin-top: 133px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  .u-section-4 .u-text-13 {
+    width: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  .u-section-4 .u-image-8 {
+    margin-right: -42px;
+    margin-bottom: -36px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1058px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: auto;
+    margin-top: 74px;
+    margin-left: 59px;
+    margin-right: 59px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 74px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 329px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 329px;
+  }
+
+  .u-section-4 .u-text-2 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 329px;
+  }
+
+  .u-section-4 .u-layout-cell-4 {
+    min-height: 335px;
+  }
+
+  .u-section-4 .u-text-4 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 335px;
+    background-size: cover;
+  }
+
+  .u-section-4 .u-layout-cell-6 {
+    min-height: 335px;
+  }
+
+  .u-section-4 .u-text-6 {
+    width: 180px;
+    font-size: 1.25rem;
+    margin-top: 38px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-text-7 {
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-image-4 {
+    margin-right: -49px;
+    margin-bottom: -92px;
+  }
+
+  .u-section-4 .u-icon-1 {
+    margin-top: -701px;
+    margin-left: -32px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    margin-top: 74px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-5 {
+    min-height: 329px;
+  }
+
+  .u-section-4 .u-layout-cell-8 {
+    min-height: 329px;
+  }
+
+  .u-section-4 .u-text-8 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-4 .u-image-6 {
+    min-height: 329px;
+  }
+
+  .u-section-4 .u-layout-cell-10 {
+    min-height: 335px;
+  }
+
+  .u-section-4 .u-text-10 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-4 .u-image-7 {
+    min-height: 335px;
+  }
+
+  .u-section-4 .u-layout-cell-12 {
+    min-height: 335px;
+  }
+
+  .u-section-4 .u-text-12 {
+    width: 180px;
+    font-size: 1.25rem;
+    margin-top: 38px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-text-13 {
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-image-8 {
+    margin-right: -49px;
+    margin-bottom: -92px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 2598px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 50px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 538px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 193px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-left: 19px;
+    margin-right: 19px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 538px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-layout-cell-4 {
+    min-height: 170px;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-5 {
+    margin-left: 19px;
+    margin-right: 19px;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 538px;
+  }
+
+  .u-section-4 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-layout-cell-6 {
+    min-height: 223px;
+  }
+
+  .u-section-4 .u-text-7 {
+    width: auto;
+    margin-left: 38px;
+    margin-right: 38px;
+  }
+
+  .u-section-4 .u-icon-1 {
+    margin-top: -559px;
+    margin-bottom: 0;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    margin-top: 542px;
+    margin-bottom: 60px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-5 {
+    min-height: 518px;
+  }
+
+  .u-section-4 .u-layout-cell-8 {
+    min-height: 193px;
+  }
+
+  .u-section-4 .u-text-9 {
+    margin-left: 51px;
+    margin-right: 51px;
+  }
+
+  .u-section-4 .u-image-6 {
+    min-height: 518px;
+  }
+
+  .u-section-4 .u-layout-cell-10 {
+    min-height: 193px;
+  }
+
+  .u-section-4 .u-text-11 {
+    margin-left: 51px;
+    margin-right: 51px;
+  }
+
+  .u-section-4 .u-image-7 {
+    min-height: 518px;
+  }
+
+  .u-section-4 .u-layout-cell-12 {
+    min-height: 246px;
+  }
+
+  .u-section-4 .u-text-12 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-13 {
+    width: 418px;
+  }
+
+  .u-section-4 .u-image-8 {
+    margin-top: -20px;
+    margin-right: -50px;
+    margin-bottom: -71px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 2133px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 62px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 55px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 339px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 339px;
+  }
+
+  .u-section-4 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 339px;
+  }
+
+  .u-section-4 .u-layout-cell-6 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-text-7 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-icon-1 {
+    margin-top: 45px;
+    margin-left: -26px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    margin-top: -56px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-5 {
+    min-height: 375px;
+  }
+
+  .u-section-4 .u-layout-cell-8 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-text-9 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-image-6 {
+    min-height: 375px;
+  }
+
+  .u-section-4 .u-layout-cell-10 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-text-11 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-image-7 {
+    min-height: 375px;
+  }
+
+  .u-section-4 .u-layout-cell-12 {
+    min-height: 290px;
+  }
+
+  .u-section-4 .u-text-13 {
+    width: 248px;
+  }
+
+  .u-section-4 .u-image-8 {
+    margin-top: -29px;
+    margin-right: -60px;
+    margin-bottom: -63px;
+  }
+}@font-face {
+  font-family: 'Agrandir-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Agrandir-Regular.otf);
+}@font-face {
+  font-family: 'Agrandir-TextBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Agrandir-TextBold.otf);
+}@font-face {
+  font-family: 'LoveloBlack';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/LoveloBlack.otf);
+}
